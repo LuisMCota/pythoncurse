@@ -1,0 +1,1 @@
+# index operator [] = gives access to a sequence element (str, list, tuples)
