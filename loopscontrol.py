@@ -14,11 +14,6 @@ for i in phone_number:
     if i == "-":
         continue
     print(i, end = "")# el end sirve para que no haga saltos de linea
-    
-
-for i in range(1, 21):# para quitar un numero
-    if i == 13:
-        pass
-    else: # imprime todo lo demas excepto el 13
+else: # imprime todo lo demas excepto el 13
         print(i)
 
