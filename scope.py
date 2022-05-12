@@ -10,3 +10,9 @@ def display_name():
 
 display_name()
 print(name) # imprime la variabel global
+
+# Jerarquia de python
+# L = Local
+# E = Enclosing
+# G = Global
+# B = Built-in
